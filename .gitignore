@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+.venv/
+venv/
+.DS_Store
+
+# Non-project clutter kept locally, not tracked in git
+/files/
+/files_Survey/
+/files_Survey.zip
+/files.zip
+/cosoromotion.zip
